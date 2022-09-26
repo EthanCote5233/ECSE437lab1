@@ -1,3 +1,4 @@
+// Ethan Cote 260929993 : Christophe Simon 260907936
 #include<iostream>
 using namespace std;
 int main ()
