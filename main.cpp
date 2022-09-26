@@ -1,4 +1,5 @@
 // Ethan Cote 260929993 : Christophe Simon 260907936
+// ethan.cote@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
